@@ -1,0 +1,29 @@
+p{
+    background-image: url(./bg.jpg),url(./clg.jpg);
+}
+h1{
+    font-size: 60px;
+    font-style: inherit;
+    opacity: 0.4;
+    
+    }
+    p{
+        font-size: 30px;
+        font-style: initial;    }
+img{
+    filter: blur(1px);
+    width: 80%;
+}
+.flexcontainer{
+    display:flex;
+    
+    color:black;
+    font-size: 60px;
+}
+.flexitem{
+    border-style: double;
+    padding:  20px;
+}
+div{
+    background-image: url(./download.jpg),url(./bg.jpg);
+}
